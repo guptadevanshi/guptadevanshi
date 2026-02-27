@@ -35,6 +35,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 
+![snake gif](https://github.com/guptadevanshi/guptadevanshi/blob/output/github-contribution-grid-snake.svg)
+
 ## 🚀 Featured Projects
 
 🔹 **Food Delivery App**
