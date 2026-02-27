@@ -12,13 +12,13 @@
 ## 🧠 Tech Stack
 
 💻 Languages  
-`C` `C++` `Python` `JavaScript`
+`C` `Java` `Python` `JavaScript`
 
 🌐 Frontend  
 `React` `HTML` `CSS` `Tailwind`
 
 ⚙️ Backend  
-`Node.js` `Express.js` `Python`
+`Node.js` `Express.js` `Flask`
 
 🗄️ Database  
 `MongoDB`
